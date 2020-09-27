@@ -1,0 +1,3 @@
+[submodule "getFilePathDlgIE.vbs"]
+	path = getFilePathDlgIE.vbs
+	url = git@gist.github.com:49c5ce0182bc92b21e828e8b70e06f0c.git
