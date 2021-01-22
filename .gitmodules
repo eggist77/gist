@@ -1,8 +1,8 @@
 [submodule "getFilePathDlgIE.vbs"]
-	path = getFilePathDlgIE.vbs
+	path = vbs/getFilePathDlgIE.vbs
 	url = git@gist.github.com:49c5ce0182bc92b21e828e8b70e06f0c.git
 [submodule "getFilePathDlgExcel.vbs"]
-	path = getFilePathDlgExcel.vbs
+	path = vbs/getFilePathDlgExcel.vbs
 	url = git@gist.github.com:5bc052f15dc8e8d1eed8d7ab8567c202.git
 [submodule "vbs/getINI"]
 	path = vbs/getINI
